@@ -9,7 +9,8 @@ Besides the nerd in me, I really enjoy taking photos in my free time.
 ## 🛠 Skills
 
 - **Languages:** JavaScript, Python, C++
-- **Frameworks:** React, Node.js, Next.js
+- **Libraries:** React, Node.js, Mongoose, Express.js
+- **Frameworks:** Next.js
 - **Tools:** Git, Docker, VS Code
 
 ## 📫 How to reach me
